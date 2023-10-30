@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-image: url('covoiturage.jpg');
+}
+form{
+    
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 40px 40px;
+    background: #f8f7f4;
+    
+
+}
+
+button {
+    padding: 15px 30px;
+    background-color: rgb(92, 92, 247);
+    font-size: 18px;
+    color: 255,255,255;
+    float: right;
+    width: 100%;
+    border: 1px solid;
+
+    padding: 15px 30px;
+    background-color: rgb(92, 92, 247);
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    border: 1px solid;
+    border-color: rgb(64, 64, 221);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+    transition: 0.3;
+
+
+}
